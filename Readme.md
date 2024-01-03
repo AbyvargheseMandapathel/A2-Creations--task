@@ -6,7 +6,7 @@
     python -m venv myvenv
     virtualenv env
     .\env\Scripts\Activate.ps1 
-    ```
+```
 
 2) Install requirements.txt
 
